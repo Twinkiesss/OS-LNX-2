@@ -1,0 +1,15 @@
+
+# CMake build files
+build/
+cmake-build-*/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# IDE
+.cache/
+.idea/
+
+# Local shell executable link
+shell
